@@ -25,7 +25,7 @@ def clear():
 
 # main window
 root = Tk()
-root.title ('PocketCalculator')
+root.title ('DarkCalculator')
 root.geometry('355x475')
 root.configure(bg = '#1E2228')
 root.iconbitmap('calc.ico')
