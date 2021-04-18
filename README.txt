@@ -1,1 +1,1 @@
-A simple Python calculator created with tkinter library for learning and portfolio purposes.
+A simple Python calculator created with tkinter library for learning and practice purposes.
